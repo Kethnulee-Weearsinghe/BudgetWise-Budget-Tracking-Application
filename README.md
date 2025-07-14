@@ -17,6 +17,6 @@ A personal budgeting web application built with **ASP.NET MVC** and **C#**. Trac
 ##  Tech Stack
 
 - **Backend**: ASP.NET MVC, C#  
-- **Data**: SQL Server (via Entity Framework)  
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Data**: PHPMyAdmin  
+- **Frontend**: HTML, CSS, PHP
 
